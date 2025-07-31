@@ -1,0 +1,9 @@
+/vendor/
+/node_modules/
+*.zip
+*.tar
+.env
+.DS_Store
+/public/storage
+/storage/*.key
+.idea
